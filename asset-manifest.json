@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LutaLivre/static/css/main.fe19bc0f.chunk.css",
-    "main.js": "/LutaLivre/static/js/main.113fd5da.chunk.js",
-    "main.js.map": "/LutaLivre/static/js/main.113fd5da.chunk.js.map",
+    "main.js": "/LutaLivre/static/js/main.335f6de7.chunk.js",
+    "main.js.map": "/LutaLivre/static/js/main.335f6de7.chunk.js.map",
     "runtime-main.js": "/LutaLivre/static/js/runtime-main.fcc57adc.js",
     "runtime-main.js.map": "/LutaLivre/static/js/runtime-main.fcc57adc.js.map",
     "static/css/2.0a9ec390.chunk.css": "/LutaLivre/static/css/2.0a9ec390.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.5ed45ddd.chunk.js",
     "static/css/main.fe19bc0f.chunk.css",
-    "static/js/main.113fd5da.chunk.js"
+    "static/js/main.335f6de7.chunk.js"
   ]
 }
