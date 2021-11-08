@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LutaLivre/static/css/main.d415605f.chunk.css",
+    "main.css": "/LutaLivre/static/css/main.b0038380.chunk.css",
     "main.js": "/LutaLivre/static/js/main.f8547d3f.chunk.js",
     "main.js.map": "/LutaLivre/static/js/main.f8547d3f.chunk.js.map",
     "runtime-main.js": "/LutaLivre/static/js/runtime-main.fcc57adc.js",
@@ -10,7 +10,7 @@
     "static/js/2.5ed45ddd.chunk.js.map": "/LutaLivre/static/js/2.5ed45ddd.chunk.js.map",
     "index.html": "/LutaLivre/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/LutaLivre/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.d415605f.chunk.css.map": "/LutaLivre/static/css/main.d415605f.chunk.css.map",
+    "static/css/main.b0038380.chunk.css.map": "/LutaLivre/static/css/main.b0038380.chunk.css.map",
     "static/js/2.5ed45ddd.chunk.js.LICENSE.txt": "/LutaLivre/static/js/2.5ed45ddd.chunk.js.LICENSE.txt",
     "static/media/ceinture-luta-livre.77c1aebe.jpg": "/LutaLivre/static/media/ceinture-luta-livre.77c1aebe.jpg",
     "static/media/styles.scss": "/LutaLivre/static/media/luta.522a73f8.jpg",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.fcc57adc.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.5ed45ddd.chunk.js",
-    "static/css/main.d415605f.chunk.css",
+    "static/css/main.b0038380.chunk.css",
     "static/js/main.f8547d3f.chunk.js"
   ]
 }
